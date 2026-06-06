@@ -1,0 +1,18 @@
+{
+  "appId": "yayue-traw-mobile",
+  "name": "Yayue Traw",
+  "version": "1.0.0",
+  "versionCode": 1,
+  "title": "Yayue Traw 1.0.0",
+  "notes": [
+    "首次发布移动端版本",
+    "支持移动端项目编辑、预览和导出",
+    "支持文本图层 X/Y 坐标调整"
+  ],
+  "downloadUrl": "https://gitee.com/goldking180/YayueTraw/releases",
+  "publishUrl": "https://gitee.com/goldking180/YayueTraw/releases",
+  "githubUrl": "https://github.com/Stockielchan/YayueTraw/releases",
+  "giteeUrl": "https://gitee.com/goldking180/YayueTraw/releases",
+  "forceUpdate": false,
+  "publishedAt": "2026-01-01T00:00:00+08:00"
+}
