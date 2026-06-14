@@ -1,19 +1,19 @@
 {
   "appId": "yayue-traw-web",
   "name": "Yayue Traw Web",
-  "version": "1.0.1",
-  "versionCode": 2,
-  "title": "Yayue Traw Web 1.0.1",
+  "version": "1.5",
+  "versionCode": 6,
+  "title": "Yayue Traw Web 1.5",
   "notes": [
-    "新增 Web 端检测更新入口和内置更新弹窗",
-    "支持 Web 端进入主界面时静默检测更新",
-    "无更新时可前往夸克网盘查看项目地址",
-    "同步移动端更新清单发布流程"
+    "修复状态机初始化时默认分支 selector 缺失的问题",
+    "修复从网页复制文本时连同背景和文字颜色一起粘贴的问题",
+    "新增符号与 Bedrock 表情符号插入面板",
+    "导出指令预览支持显示表情符号"
   ],
   "downloadUrl": "https://pan.quark.cn/s/a267230f9ccf",
   "publishUrl": "https://pan.quark.cn/s/a267230f9ccf",
   "githubUrl": "https://github.com/Stockielchan/YayueTraw",
   "giteeUrl": "https://gitee.com/goldking180/YayueTraw",
   "forceUpdate": false,
-  "publishedAt": "2026-06-06T00:00:00+08:00"
+  "publishedAt": "2026-06-14T00:00:00+08:00"
 }
