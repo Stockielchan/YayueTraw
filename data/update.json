@@ -1,19 +1,18 @@
 {
   "appId": "yayue-traw-mobile",
   "name": "Yayue Traw",
-  "version": "1.5",
-  "versionCode": 6,
-  "title": "Yayue Traw 1.5",
+  "version": "1.5.1",
+  "versionCode": 7,
+  "title": "Yayue Traw 1.5.1",
   "notes": [
-    "新增符号与 Bedrock 表情符号插入面板",
-    "文本编辑支持可拖动、可缩放的符号浮窗",
-    "时间轴轨道文本摘要支持固定大小表情显示",
-    "预览画布支持官方 Bedrock 表情符号渲染"
+    "修复手机版导出指令与实际预览显示顺序不一致的问题",
+    "导出时现在会按轨道显示顺序排列文本行与状态机积木",
+    "修复中间空轨道在导出后被压缩，导致游戏内排版错乱的问题"
   ],
   "downloadUrl": "https://pan.quark.cn/s/a267230f9ccf",
   "publishUrl": "https://pan.quark.cn/s/a267230f9ccf",
   "githubUrl": "https://github.com/Stockielchan/YayueTraw/releases",
   "giteeUrl": "https://gitee.com/goldking180/YayueTraw/releases",
   "forceUpdate": false,
-  "publishedAt": "2026-06-14T00:00:00+08:00"
+  "publishedAt": "2026-06-21T00:00:00+08:00"
 }
